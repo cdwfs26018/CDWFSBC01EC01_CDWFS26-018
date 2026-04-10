@@ -1,0 +1,15 @@
+[
+  { "nom": "Jean M.",
+    "prenom": "Jiji",
+    "note": 5, "ville": "Chartres", "commentaire": "Travail impeccable, finitions parfaites." },
+  { "nom": "Sophie L.",
+    "prenom": "Soph", "note": 5,"ville": "Chartres", "commentaire": "Très professionnel et de bon conseil." },
+  { "nom": "Marc D.",
+    "prenom": "Dapho", "note": 4,"ville": "Chartres", "commentaire": "Rénovation complète réussie." },
+  { "nom": "Claire R.",
+    "prenom": "Jiji", "note": 5,"ville": "Chartres", "commentaire": "Isolation efficace, je recommande." },
+  { "nom": "Paul B.",
+    "prenom": "Albert", "note": 5,"ville": "Chartres", "commentaire": "Excellent artisan, ponctuel et sérieux." },
+  { "nom": "Nadia K.",
+    "prenom": "Jean", "note": 5,"ville": "Chartres", "commentaire": "Résultat au-dessus de mes attentes." }
+]
